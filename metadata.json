@@ -1,0 +1,5 @@
+{
+  "name": "Web Device Simulator",
+  "description": "An advanced web application that displays any website within a simulated device frame. It offers controls to switch between mobile, tablet, and desktop views, and provides a sophisticated zoom function to inspect the site at different scales. Designed to feel like a native application.",
+  "requestFramePermissions": []
+}
